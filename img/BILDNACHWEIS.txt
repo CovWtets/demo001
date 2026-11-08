@@ -1,0 +1,23 @@
+Alle Fotos: Unsplash (https://unsplash.com/license), kostenlose Lizenz, kommerzielle Nutzung erlaubt, keine Namensnennung Pflicht.
+hero.jpg        https://unsplash.com/photos/-atd5-2ciHc  Salvo Media LLC
+residential.jpg https://unsplash.com/photos/ylzGfY-xzBY  Salvo Media LLC
+contact.jpg     https://unsplash.com/photos/e5b1RBCHP2w  Salvo Media LLC
+pet.jpg         https://unsplash.com/photos/LATYeZyw88c  Angel Luciano
+putting.jpg     https://unsplash.com/photos/jHAtAjodI0Q  Chiputt Golf
+commercial.jpg  https://unsplash.com/photos/k1hCHacaUu0  Aalo Lens
+green.jpg       https://unsplash.com/photos/zTnt1XBF9cw  Robert Ruggiero
+grass.jpg       https://unsplash.com/photos/QSIq9ncQkzY  Jason Dent
+g-oasis.jpg     https://unsplash.com/photos/CgEEbNM48VY  Alef Morais
+g-pool.jpg      https://unsplash.com/photos/5tcXJV5rNX4  Shoham Avisrur
+g-dog.jpg       https://unsplash.com/photos/Nms-W0u4J7c  Alvan Nee
+g-chip.jpg      https://unsplash.com/photos/lPO0nRPSPIA  Chiputt Golf
+g-house.jpg     https://unsplash.com/photos/g39p1kDjvSY  Wes Fischer
+g-lawn.jpg      https://unsplash.com/photos/zXH4Y7bRu3Y  MV Vacation
+g-rooftop.jpg   https://unsplash.com/photos/JAC8RFKgTlU  Aalo Lens
+g-backyard.jpg  https://unsplash.com/photos/x1rFTWcXoOc  Josh Lemmon
+g-wedge.jpg     https://unsplash.com/photos/wIFGHGhg1nY  Adrian Hernandez
+g-shade.jpg     https://unsplash.com/photos/1g8xbIKHOew  Austin Phillips
+yard-fence.jpg  https://unsplash.com/photos/xink7jYt7hQ  Giorgio Trovato
+yard-tree.jpg   https://unsplash.com/photos/-1arfQkE9IQ  Alexandra Gold
+yard-deck.jpg   https://unsplash.com/photos/GFAm_bzlU48  Josh Lemmon
+grass-top.jpg   https://unsplash.com/photos/b9Xr2K6nO9A  Max Ostwalt
